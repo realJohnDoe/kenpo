@@ -1,0 +1,10 @@
+site_name: Software Development Ressources
+theme:
+  name: material
+  features:
+    - navigation.expand
+    - tabs
+plugins: 
+  - search
+  - roamlinks
+
