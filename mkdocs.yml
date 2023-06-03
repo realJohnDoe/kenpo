@@ -6,5 +6,4 @@ theme:
     - tabs
 plugins: 
   - search
-  - roamlinks
 
