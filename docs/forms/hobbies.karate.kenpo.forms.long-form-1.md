@@ -9,12 +9,12 @@ created: 1684253096904
 1. Blocks and Punches
    1. Facing 1200, inward blocks
       1. - Horse
-      2. - Left foot back into [[hobbies.karate.kenpo.single-techniques.neutral-bow.right]]
-         - [[hobbies.karate.kenpo.single-techniques.inward-block.right]]
+      2. - Left foot back into [[right-neutral-bow]]
+         - [[right-inward-block]]
       3. - Right forward Bow
          - [[hobbies.karate.kenpo.single-techniques.straight-punch.left]]
       4. - Right Cat
-         - [[hobbies.karate.kenpo.single-techniques.inward-block.right]]
+         - [[right-inward-block]]
       5. - Right foot back into [[hobbies.karate.kenpo.single-techniques.neutral-bow.left]]
          - [[hobbies.karate.kenpo.single-techniques.inward-block.left]]
       6. - Left forward Bow
@@ -24,7 +24,7 @@ created: 1684253096904
          - Left outward block
       2. - Left forward bow
          - [[hobbies.karate.kenpo.single-techniques.straight-punch.right]]
-      3. - Left foot back into [[hobbies.karate.kenpo.single-techniques.neutral-bow.right]]
+      3. - Left foot back into [[right-neutral-bow]]
          - [[hobbies.karate.kenpo.single-techniques.right-outward-block]]
       4. - Right forward bow
          - [[hobbies.karate.kenpo.single-techniques.straight-punch.left]]
@@ -34,12 +34,12 @@ created: 1684253096904
       2. - Left upward block
       3. - Left forward bow
          - [[hobbies.karate.kenpo.single-techniques.straight-punch.right]]
-      4. - Move left foot back into [[hobbies.karate.kenpo.single-techniques.neutral-bow.right]]
+      4. - Move left foot back into [[right-neutral-bow]]
          - Right upward block
       5. - Right forward bow
          - [[hobbies.karate.kenpo.single-techniques.straight-punch.left]]
    1. Facing 600, downward blocks
-      1. - Move right foot to the right into [[hobbies.karate.kenpo.single-techniques.neutral-bow.right]] facing 600
+      1. - Move right foot to the right into [[right-neutral-bow]] facing 600
          - [[hobbies.karate.kenpo.single-techniques.right-outward-downward-block]]
       2. - Right forward bow
          - [[hobbies.karate.kenpo.single-techniques.straight-punch.left]]
@@ -62,6 +62,4 @@ created: 1684253096904
    3. Roundhouse punches, starting right
    4. Uppercut punches, starting right
    5. Horse & Greeting
-
-
 
