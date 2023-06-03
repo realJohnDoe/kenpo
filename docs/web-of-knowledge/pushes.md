@@ -1,8 +1,11 @@
----
-id: gysa7mj52pyk99dwrburcku
-title: Pushes
-desc: ""
-updated: 1676842627474
-created: 1676842627474
----
+# Web of Knowledge: Pushes ✋
 
+## Backlinks
+
+> - [Alternating Maces 🔄✊](..\techniques\alternating-maces.md)
+>   - [[pushes]]
+>    
+> - [](..\techniques\snapping-twig.md)
+>   - [[pushes]]
+
+_Backlinks last generated 2023-06-03 15:38:49_

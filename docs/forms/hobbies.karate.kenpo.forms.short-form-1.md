@@ -32,7 +32,7 @@ To 300:
 To 600:
 
 7.  - [[right-neutral-bow]]
-    - [[hobbies.karate.kenpo.single-techniques.right-outward-downward-block]]
+    - [[right-outward-downward-block]]
 8.  - [[hobbies.karate.kenpo.single-techniques.neutral-bow.left]]
     - Left Outward Downward Block
 

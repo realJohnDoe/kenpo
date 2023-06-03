@@ -40,7 +40,7 @@ created: 1684253096904
          - [[hobbies.karate.kenpo.single-techniques.straight-punch.left]]
    1. Facing 600, downward blocks
       1. - Move right foot to the right into [[right-neutral-bow]] facing 600
-         - [[hobbies.karate.kenpo.single-techniques.right-outward-downward-block]]
+         - [[right-outward-downward-block]]
       2. - Right forward bow
          - [[hobbies.karate.kenpo.single-techniques.straight-punch.left]]
       3. - Right foot back into [[hobbies.karate.kenpo.single-techniques.neutral-bow.left]]
