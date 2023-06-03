@@ -11,7 +11,7 @@ created: 1682624524598
 > - [Delayed Sword ⏰⚔️](..\techniques\delayed-sword.md)
 >   - Outward [[right-handsword]]
 >    
-> - [Five Swords 5️⃣⚔️](..\techniques\hobbies.karate.kenpo.techniques.five-swords.md)
+> - [Five Swords 5️⃣⚔️](..\techniques\five-swords.md)
 >   - - Outward [[right-handsword]]
 >   - Inward downward overhead [[right-handsword]]
 >    
@@ -21,4 +21,4 @@ created: 1682624524598
 > - [Twin Kimono 2️⃣👘](..\techniques\twin-kimono.md)
 >   - - Snapping outward [[right-handsword]]
 
-_Backlinks last generated 2023-06-03 16:39:20_
+_Backlinks last generated 2023-06-03 16:47:41_

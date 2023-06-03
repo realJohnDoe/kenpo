@@ -21,10 +21,10 @@ created: 1676842411650
 > - [Delayed Sword ⏰⚔️](..\techniques\delayed-sword.md)
 >   - [[right-inward-block]]
 >    
-> - [Five Swords 5️⃣⚔️](..\techniques\hobbies.karate.kenpo.techniques.five-swords.md)
+> - [Five Swords 5️⃣⚔️](..\techniques\five-swords.md)
 >   - [[right-inward-block]]
 >    
 > - [Raining Claw](..\techniques\raining-claw.md)
 >   - Downward [[right-inward-block]]
 
-_Backlinks last generated 2023-06-03 16:34:28_
+_Backlinks last generated 2023-06-03 16:47:41_

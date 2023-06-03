@@ -31,7 +31,7 @@ created: 1676842350045
 >   - - [[right-neutral-bow]]
 >   - - [[right-neutral-bow]]
 >    
-> - [Five Swords 5️⃣⚔️](..\techniques\hobbies.karate.kenpo.techniques.five-swords.md)
+> - [Five Swords 5️⃣⚔️](..\techniques\five-swords.md)
 >   - - Step forward into [[right-neutral-bow]] toward 1200
 >   - - Back into [[right-neutral-bow]]
 >   - - Pivot back into [[right-neutral-bow]]
@@ -55,4 +55,4 @@ created: 1676842350045
 >   - Left foot back into [[right-neutral-bow]] facing 1200
 >   - - Left foot back into [[right-neutral-bow]] facing 1030
 
-_Backlinks last generated 2023-06-03 16:44:30_
+_Backlinks last generated 2023-06-03 16:47:41_

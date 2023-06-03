@@ -22,4 +22,4 @@ Defense against right roundhouse punch
 > - [Orange Belt 🟠](..\belts\orange.md)
 >   - 9. [[five-swords]]
 
-_Backlinks last generated 2023-06-03 16:32:41_
+_Backlinks last generated 2023-06-03 16:47:41_

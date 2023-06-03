@@ -2,7 +2,7 @@
 
 ## Backlinks
 
-> - [Five Swords 5️⃣⚔️](..\techniques\hobbies.karate.kenpo.techniques.five-swords.md)
+> - [Five Swords 5️⃣⚔️](..\techniques\five-swords.md)
 >   - [[punches]]
 >    
 > - [Leaping Crane ↖️🐦](..\techniques\leaping-crane.md)
@@ -17,4 +17,4 @@
 > - [Sword of Destruction ⚔️💥](..\techniques\sword-of-destruction.md)
 >   - [[punches]]
 
-_Backlinks last generated 2023-06-03 16:44:30_
+_Backlinks last generated 2023-06-03 16:47:41_
