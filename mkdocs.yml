@@ -1,4 +1,4 @@
-site_name: Johannes Kenpo Notes 🥋🗒️
+site_name: Johannes' Kenpo Notes 🥋🗒️
 theme:
   name: material
   features:
@@ -6,8 +6,5 @@ theme:
     - tabs
 plugins: 
   - search
-  - ezlinks:
-      warn_ambiguities: true
-      wikilinks: true
-      reference_links: true
+  - roamlinks
 
