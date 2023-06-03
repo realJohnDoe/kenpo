@@ -8,6 +8,7 @@ authors = ["Johannes Döllinger <johannes.doellinger@gmail.com>"]
 python = "^3.10"
 mkdocs-material = "^9.1.15"
 mkdocs-roamlinks-plugin = "^0.3.2"
+mkdocs-ezlinks-plugin = "^0.1.14"
 
 [tool.poetry.dev-dependencies]
 

@@ -6,4 +6,8 @@ theme:
     - tabs
 plugins: 
   - search
+  - ezlinks:
+      warn_ambiguities: true
+      wikilinks: true
+      reference_links: true
 
