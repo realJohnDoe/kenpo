@@ -8,9 +8,6 @@ created: 1680799329300
 
 ## Backlinks
 
-> - [](..\techniques\hobbies.karate.kenpo.techniques.shielding-hammer.md)
->   - - Inward downward [[hobbies.karate.kenpo.single-techniques.right-back-knuckle]]
->    
 > - [](..\techniques\hobbies.karate.kenpo.techniques.twin-kimono.md)
 >   - Outward horizontal [[hobbies.karate.kenpo.single-techniques.right-back-knuckle]]
 >    
@@ -20,4 +17,4 @@ created: 1680799329300
 > - [](..\techniques\reversing-mace.md)
 >   - - Outward [[hobbies.karate.kenpo.single-techniques.right-back-knuckle]]
 
-_Backlinks last generated 2023-06-03 16:40:20_
+_Backlinks last generated 2023-06-03 16:44:30_

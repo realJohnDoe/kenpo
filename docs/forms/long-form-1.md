@@ -6,7 +6,7 @@
       2. - Left foot back into [[right-neutral-bow]]
          - [[right-inward-block]]
       3. - Right forward Bow
-         - [[hobbies.karate.kenpo.single-techniques.straight-punch.left]]
+         - [[left-straight-punch]]
       4. - Right Cat
          - [[right-inward-block]]
       5. - Right foot back into [[hobbies.karate.kenpo.single-techniques.neutral-bow.left]]
@@ -21,7 +21,7 @@
       3. - Left foot back into [[right-neutral-bow]]
          - [[hobbies.karate.kenpo.single-techniques.right-outward-block]]
       4. - Right forward bow
-         - [[hobbies.karate.kenpo.single-techniques.straight-punch.left]]
+         - [[left-straight-punch]]
    1. Facing 300, upward blocks
       1. - Right foot to the left, turning counterclockwise into [[hobbies.karate.kenpo.single-techniques.neutral-bow.left]] facing 300
          - Left horizontal elbow strike
@@ -31,12 +31,12 @@
       4. - Move left foot back into [[right-neutral-bow]]
          - Right upward block
       5. - Right forward bow
-         - [[hobbies.karate.kenpo.single-techniques.straight-punch.left]]
+         - [[left-straight-punch]]
    1. Facing 600, downward blocks
       1. - Move right foot to the right into [[right-neutral-bow]] facing 600
          - [[right-outward-downward-block]]
       2. - Right forward bow
-         - [[hobbies.karate.kenpo.single-techniques.straight-punch.left]]
+         - [[left-straight-punch]]
       3. - Right foot back into [[hobbies.karate.kenpo.single-techniques.neutral-bow.left]]
          - Left Outward Downward Block
       4. - Left forward bow

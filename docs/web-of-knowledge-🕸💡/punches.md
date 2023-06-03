@@ -11,7 +11,10 @@
 > - [Raining Claw](..\techniques\raining-claw.md)
 >   - [[punches]]
 >    
+> - [Shielding Hammer 🛡️🔨](..\techniques\shielding-hammer.md)
+>   - [[punches]]
+>    
 > - [Sword of Destruction ⚔️💥](..\techniques\sword-of-destruction.md)
 >   - [[punches]]
 
-_Backlinks last generated 2023-06-03 16:40:20_
+_Backlinks last generated 2023-06-03 16:44:30_

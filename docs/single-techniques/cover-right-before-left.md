@@ -26,6 +26,9 @@ created: 1676842564981
 > - [Raining Claw](..\techniques\raining-claw.md)
 >   - [[cover-right-before-left]] towards 130
 >    
+> - [Shielding Hammer 🛡️🔨](..\techniques\shielding-hammer.md)
+>   - [[cover-right-before-left]] towards 130
+>    
 > - [Snapping Twig 🌳](..\techniques\snapping-twig.md)
 >   - - [[cover-right-before-left]] toward 730 🕢
 >    
@@ -35,4 +38,4 @@ created: 1676842564981
 > - [Twin Kimono 2️⃣👘](..\techniques\twin-kimono.md)
 >   - - [[cover-right-before-left]] toward 1030
 
-_Backlinks last generated 2023-06-03 16:40:20_
+_Backlinks last generated 2023-06-03 16:44:30_
