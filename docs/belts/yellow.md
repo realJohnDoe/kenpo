@@ -1,9 +1,9 @@
 # Yellow Belt 🟡
 
-- [[delayed-sword]]
-- [[alternating-maces]]
-- [[sword-of-destruction]]
-- [[deflecting-hammer]]
+1. [[delayed-sword]]
+2. [[alternating-maces]]
+3. [[sword-of-destruction]]
+4. [[deflecting-hammer]]
 
 ## Backlinks
 

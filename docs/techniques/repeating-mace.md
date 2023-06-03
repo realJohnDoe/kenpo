@@ -20,6 +20,6 @@ Defense against left hand step through push
 ## Backlinks
 
 > - [Orange Belt 🟠](..\belts\orange.md)
->   - 14. [[repeating-mace]]
+>   - [[repeating-mace]]
 
-_Backlinks last generated 2023-06-03 16:32:41_
+_Backlinks last generated 2023-06-03 16:54:11_

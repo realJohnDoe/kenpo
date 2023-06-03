@@ -29,6 +29,6 @@ Defense against attempted full nelson
 ## Backlinks
 
 > - [Orange Belt 🟠](..\belts\orange.md)
->   - 11. [[scraping-hoof]]
+>   - [[scraping-hoof]]
 
-_Backlinks last generated 2023-06-03 16:32:41_
+_Backlinks last generated 2023-06-03 16:54:11_

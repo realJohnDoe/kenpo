@@ -14,4 +14,4 @@ Defense against Left Roundhouse Punch
 > - [Yellow Belt 🟡](..\belts\yellow.md)
 >   - [[sword-of-destruction]]
 
-_Backlinks last generated 2023-06-03 16:32:41_
+_Backlinks last generated 2023-06-03 16:54:11_

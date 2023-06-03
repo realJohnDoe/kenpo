@@ -15,6 +15,6 @@ Defense against double lapel grab
 ## Backlinks
 
 > - [Purple Belt 🟣](..\belts\purple.md)
->   - 20. [[twin-kimono]]
+>   - [[twin-kimono]]
 
-_Backlinks last generated 2023-06-03 16:47:41_
+_Backlinks last generated 2023-06-03 16:54:11_
