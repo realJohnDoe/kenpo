@@ -23,4 +23,6 @@ created: 1676842564981
 > - [](..\techniques\reversing-mace.md)
 >   - - [[hobbies.karate.kenpo.single-techniques.cover-right-before-left]] facing 1030
 
-_Backlinks last generated 2023-06-03 15:31:29_
+_Backlinks last generated 2023-06-03 15:41:22_
+
+

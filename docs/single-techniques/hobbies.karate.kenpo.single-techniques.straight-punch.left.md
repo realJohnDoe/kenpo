@@ -20,4 +20,6 @@ created: 1680799056987
 > - [](..\techniques\reversing-mace.md)
 >   - Defense against [[hobbies.karate.kenpo.single-techniques.straight-punch.left]]
 
-_Backlinks last generated 2023-06-03 15:26:25_
+_Backlinks last generated 2023-06-03 15:41:22_
+
+

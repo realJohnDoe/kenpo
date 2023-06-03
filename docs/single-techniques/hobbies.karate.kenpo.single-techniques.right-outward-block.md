@@ -1,7 +1,7 @@
 ---
 id: u3nl0eqo4xvwlm9g8kluna5
 title: Right Outward Block
-desc: ''
+desc: ""
 updated: 1676843918795
 created: 1676843918795
 ---
@@ -10,14 +10,13 @@ created: 1676843918795
 
 > - [](..\forms\hobbies.karate.kenpo.forms.long-form-1.md)
 >   - [[hobbies.karate.kenpo.single-techniques.right-outward-block]]
->    
 > - [](..\forms\hobbies.karate.kenpo.forms.short-form-1.md)
 >   - [[hobbies.karate.kenpo.single-techniques.right-outward-block]]
->    
 > - [](..\techniques\hobbies.karate.kenpo.techniques.shielding-hammer.md)
 >   - Extended [[hobbies.karate.kenpo.single-techniques.right-outward-block]]
->    
 > - [](..\techniques\sword-of-destruction.md)
 >   - [[hobbies.karate.kenpo.single-techniques.right-outward-block]]
 
-_Backlinks last generated 2023-06-03 15:11:34_
+_Backlinks last generated 2023-06-03 15:41:22_
+
+

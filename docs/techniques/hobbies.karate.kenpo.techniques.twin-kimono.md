@@ -37,4 +37,6 @@ Defense against double lapel grab
 > - [Purple Belt 🟣](..\belts\3-purple.md)
 >   - 20. [[hobbies.karate.kenpo.techniques.twin-kimono]]
 
-_Backlinks last generated 2023-06-03 15:34:18_
+_Backlinks last generated 2023-06-03 15:41:22_
+
+

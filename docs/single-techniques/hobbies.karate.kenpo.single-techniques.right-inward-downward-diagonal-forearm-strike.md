@@ -14,4 +14,6 @@ created: 1682626208002
 > - [](..\techniques\lone-kimono.md)
 >   - - [[hobbies.karate.kenpo.single-techniques.right-inward-downward-diagonal-forearm-strike]]
 
-_Backlinks last generated 2023-06-03 15:26:25_
+_Backlinks last generated 2023-06-03 15:41:22_
+
+

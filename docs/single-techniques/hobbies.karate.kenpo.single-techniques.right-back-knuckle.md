@@ -23,4 +23,6 @@ created: 1680799329300
 > - [](..\techniques\reversing-mace.md)
 >   - - Outward [[hobbies.karate.kenpo.single-techniques.right-back-knuckle]]
 
-_Backlinks last generated 2023-06-03 15:31:29_
+_Backlinks last generated 2023-06-03 15:41:22_
+
+

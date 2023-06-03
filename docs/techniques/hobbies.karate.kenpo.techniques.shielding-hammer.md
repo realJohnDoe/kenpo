@@ -34,4 +34,6 @@ Defense against [[hobbies.karate.kenpo.single-techniques.straight-punch.left]]
 > - [Orange Belt 🟠](..\belts\2-orange.md)
 >   - 15. [[shielding-hammer]]
 
-_Backlinks last generated 2023-06-03 15:34:18_
+_Backlinks last generated 2023-06-03 15:41:22_
+
+

@@ -10,8 +10,9 @@ created: 1682624524598
 
 > - [](..\techniques\hobbies.karate.kenpo.techniques.twin-kimono.md)
 >   - - Snapping outward [[hobbies.karate.kenpo.single-techniques.right-handsword]]
->    
 > - [](..\techniques\lone-kimono.md)
 >   - - Upward outward diagonal snapping [[hobbies.karate.kenpo.single-techniques.right-handsword]]
 
-_Backlinks last generated 2023-06-03 15:29:29_
+_Backlinks last generated 2023-06-03 15:41:22_
+
+
