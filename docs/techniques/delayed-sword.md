@@ -26,7 +26,7 @@ _Backlinks last generated 2023-06-03 15:41:22_
 [grabs-and-tackles]: ../web-of-knowledge/grabs-and-tackles "Grabs and Tackles"
 [right-neutral-bow]: ../single-techniques/right-neutral-bow "Right Neutral Bow"
 [right-inward-block]: ../single-techniques/right-inward-block "Right Inward Block"
-[right-front-kick]: ../single-techniques/right-front-kick "Right Front Kick"
+[right-front-kick]: ../single-techniques/right-front-kick "Right Front Kick ➡️🦶⬆️"
 [right-handsword]: ../single-techniques/right-handsword "Right Handsword"
 [cover-right-before-left]: ../single-techniques/cover-right-before-left "Cover Right before Left"
 [delayed-sword]: delayed-sword "Delayed Sword ⏰⚔️"

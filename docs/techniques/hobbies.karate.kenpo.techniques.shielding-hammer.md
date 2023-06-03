@@ -37,3 +37,4 @@ Defense against [[hobbies.karate.kenpo.single-techniques.straight-punch.left]]
 _Backlinks last generated 2023-06-03 15:41:22_
 
 
+
