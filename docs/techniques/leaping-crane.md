@@ -23,6 +23,5 @@ Defense against Right straight punch
 ## Backlinks
 
 > - [Purple Belt 🟣](..\belts\purple.md)
->   - [[leaping-crane]]
 
-_Backlinks last generated 2023-06-03 16:54:11_
+_Backlinks last generated 2023-06-03 17:02:21_

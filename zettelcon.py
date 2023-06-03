@@ -31,7 +31,7 @@ def main():
         "-f",
         "--folder",
         help="Path to folder with all the zettels in it.",
-        required=True
+        required=True,
     )
     parser.add_argument(
         "-s",
@@ -106,7 +106,7 @@ def process_directory(
 
     unreferenced_files = set(files) - set(bundled_links_current.keys())
     pool.map(clear_backlinks_from_file, unreferenced_files)
-    
+
     print(f"\nFound {len(unreferenced_files)} files with no links to them")
     for file in sorted(unreferenced_files):
         print(f"  - {os.path.basename(file)}")
@@ -166,14 +166,14 @@ def write_backlinks_to_file(backlinks):
         )
         entry = "> - [{}]({})\n".format(source_file_title, source_file_relative)
 
-        for backlink in src_backlinks:
-            # ASSUMES two spaces are used for list indentation
-            entry += ">   - {}\n".format(backlink["link_context"])
+        # for backlink in src_backlinks:
+        #     # ASSUMES two spaces are used for list indentation
+        #     entry += ">   - {}\n".format(backlink["link_context"])
 
         entries.append(entry)
 
     backlink_section = f"{BACKLINK_START}\n\n"
-    backlink_section += ">    \n".join(entries)
+    backlink_section += "".join(entries)
 
     backlink_section += f"\n_Backlinks last generated {NOWSTR}_\n"
 

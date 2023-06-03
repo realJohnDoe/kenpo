@@ -13,6 +13,5 @@ Defense against left hand grab
 ## Backlinks
 
 > - [Orange Belt 🟠](..\belts\orange.md)
->   - [[lone-kimono]]
 
-_Backlinks last generated 2023-06-03 16:54:11_
+_Backlinks last generated 2023-06-03 17:02:21_

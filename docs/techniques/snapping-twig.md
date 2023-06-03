@@ -18,6 +18,5 @@ Defense against left push
 ## Backlinks
 
 > - [Purple Belt 🟣](..\belts\purple.md)
->   - [[snapping-twig]]
 
-_Backlinks last generated 2023-06-03 16:54:11_
+_Backlinks last generated 2023-06-03 17:02:21_

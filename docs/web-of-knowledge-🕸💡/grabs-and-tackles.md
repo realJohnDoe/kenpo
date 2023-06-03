@@ -3,9 +3,6 @@
 ## Backlinks
 
 > - [Delayed Sword ⏰⚔️](..\techniques\delayed-sword.md)
->   - [[grabs-and-tackles]]
->    
 > - [Twin Kimono 2️⃣👘](..\techniques\twin-kimono.md)
->   - [[grabs-and-tackles]]
 
-_Backlinks last generated 2023-06-03 16:39:20_
+_Backlinks last generated 2023-06-03 17:02:21_
