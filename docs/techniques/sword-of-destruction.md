@@ -26,7 +26,7 @@ Defense against Left Roundhouse Punch
 
 ## Backlinks
 
-> - [](..\belts\1-yellow.md)
+> - [Yellow Belt 🟡](..\belts\1-yellow.md)
 >   - [[sword-of-destruction]]
 
-_Backlinks last generated 2023-06-03 15:11:34_
+_Backlinks last generated 2023-06-03 15:26:25_
