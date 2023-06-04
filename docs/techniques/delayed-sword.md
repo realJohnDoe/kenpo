@@ -15,4 +15,4 @@ Defense against Right Hand to Left Shoulder Grab
 
 > - [Yellow Belt 🟡](..\belts\yellow.md)
 
-_Backlinks last generated 2023-06-03 17:02:21_
+_Backlinks last generated 2023-06-04 13:15:16_
