@@ -2,7 +2,7 @@ import os
 import re
 
 
-def replace_wikilink_with_header(file_paths):
+def replace_wikilink_with_header(source_file, file_paths):
     def replace(match):
         target_file = match.group(1)
         print(f"Replacing wikilink targeting {target_file}.")
@@ -15,13 +15,17 @@ def replace_wikilink_with_header(file_paths):
 
         target_file_path = target_file_path_candidates[0]
         print(f"Found target file under {target_file_path}")
-        with open(target_file_path, "r") as target_file:
-            target_content = target_file.read()
+        with open(target_file_path, "r") as f:
+            target_content = f.read()
             header_match = re.search(r"^# ([^#].+)$", target_content, re.MULTILINE)
             if header_match:
                 title = header_match.group(1)
                 print(f"Found header {title}")
-                return f"[{title}]({target_file})"
+                relative_path = os.path.relpath(
+                    target_file_path, start=os.path.dirname(source_file)
+                ).replace("\\", "/")
+                print(f"Calculated relative target path: {relative_path}")
+                return f"[{title}]({relative_path})"
             else:
                 print("Found no header. Using the file name instead.")
                 return f"[[{target_file}]]"
@@ -30,17 +34,19 @@ def replace_wikilink_with_header(file_paths):
 
 
 def replace_wikilinks(file_paths):
-    for file_path in file_paths:
-        print(f"Replacing wikilinks in: {file_path}")
-        with open(file_path, "r") as file:
+    for source_file in file_paths:
+        print(f"Replacing wikilinks in: {source_file}")
+        with open(source_file, "r") as file:
             content = file.read()
 
         # Replace wikilinks with markdown links
         content = re.sub(
-            r"\[\[(.*?)\]\]", replace_wikilink_with_header(file_paths), content
+            r"\[\[(.*?)\]\]",
+            replace_wikilink_with_header(source_file, file_paths),
+            content,
         )
 
-        with open(file_path, "w") as file:
+        with open(source_file, "w") as file:
             file.write(content)
 
 
