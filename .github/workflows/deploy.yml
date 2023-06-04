@@ -13,5 +13,7 @@ jobs:
           python-version: 3.x
       - run: pip install poetry
       - run: poetry install
-      - run: poetry run python ./zettelcon.py -f ./docs/
+      - name: Add Backlinks
+        run: poetry run python ./zettelcon.py -f ./docs/
+      - run: poetry run python .\replace_wikilinks.py
       - run: poetry run mkdocs gh-deploy --force
