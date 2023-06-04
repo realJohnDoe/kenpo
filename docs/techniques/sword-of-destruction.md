@@ -3,6 +3,8 @@
 Defense against Left Roundhouse Punch
 [[punches]]
 
+## Steps
+
 1.  - [[right-neutral-bow]]
     - [[right-outward-block]]
 2.  - [[right-front-kick]]

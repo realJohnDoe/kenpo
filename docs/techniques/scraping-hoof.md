@@ -1,10 +1,4 @@
----
-id: 08zybiznc14osq0uyd7b1s9
-title: Scraping Hoof
-desc: ""
-updated: 1680800765358
-created: 1680799997136
----
+# Scraping Hoof ⬇️🐎
 
 Defense against attempted full nelson
 
