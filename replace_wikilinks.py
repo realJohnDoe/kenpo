@@ -11,20 +11,20 @@ def replace_wikilink_with_header(file_paths):
         ]
         if not target_file_path_candidates:
             print("Did not find a matching file")
-            return target_file
+            return f"[[{target_file}]]"
 
         target_file_path = target_file_path_candidates[0]
         print(f"Found target file under {target_file_path}")
         with open(target_file_path, "r") as target_file:
             target_content = target_file.read()
-            header_match = re.search(r"^#+ (.+)$", target_content, re.MULTILINE)
+            header_match = re.search(r"^# ([^#].+)$", target_content, re.MULTILINE)
             if header_match:
                 title = header_match.group(1)
                 print(f"Found header {title}")
-                return title
+                return f"[{title}]({target_file})"
             else:
                 print("Found no header. Using the file name instead.")
-                return target_file
+                return f"[[{target_file}]]"
 
     return replace
 
