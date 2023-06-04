@@ -1,27 +1,27 @@
 # Orange Belt 🟠
 
-1.
-2.
-3.
-4.
-5.
-6.
+1. -
+2. -
+3. -
+4. -
+5. -
+6. -
 7. [[lone-kimono]]
-8.
+8. -
 9. [[five-swords]]
-10.
+10. -
 11. [[scraping-hoof]]
-12.
-13.
+12. -
+13. -
 14. [[repeating-mace]]
 15. [[shielding-hammer]]
-16.
-17.
-18.
+16. -
+17. -
+18. -
 19. [[reversing-mace]]
-20.
-21.
-22.
+20. -
+21. -
+22. -
 23. [[raining-claw]]
 
 ## Backlinks

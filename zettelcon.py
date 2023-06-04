@@ -175,7 +175,7 @@ def write_backlinks_to_file(backlinks):
     backlink_section = f"{BACKLINK_START}\n\n"
     backlink_section += "".join(entries)
 
-    backlink_section += f"\n_Backlinks last generated {NOWSTR}_\n"
+    # backlink_section += f"\n_Backlinks last generated {NOWSTR}_\n"
 
     write_backlink_section_to_file(backlink_section, target_file)
 
