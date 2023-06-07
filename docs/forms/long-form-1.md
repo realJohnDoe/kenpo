@@ -56,3 +56,7 @@
    3. Roundhouse punches, starting right
    4. Uppercut punches, starting right
    5. Horse & Greeting
+
+# Video
+
+![type:video](https://www.youtube.com/embed/ZtmvWpdK84E)

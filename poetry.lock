@@ -70,6 +70,20 @@ MarkupSafe = ">=2.0"
 i18n = ["Babel (>=2.7)"]
 
 [[package]]
+name = "lxml"
+version = "4.9.2"
+description = "Powerful and Pythonic XML processing library combining libxml2/libxslt with the ElementTree API."
+category = "main"
+optional = false
+python-versions = ">=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*, != 3.4.*"
+
+[package.extras]
+cssselect = ["cssselect (>=0.7)"]
+html5 = ["html5lib"]
+htmlsoup = ["beautifulsoup4"]
+source = ["Cython (>=0.29.7)"]
+
+[[package]]
 name = "markdown"
 version = "3.3.7"
 description = "Python implementation of Markdown."
@@ -160,6 +174,18 @@ mkdocs = ">=1.0.4"
 
 [package.extras]
 dev = ["pytest"]
+
+[[package]]
+name = "mkdocs-video"
+version = "1.5.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6"
+
+[package.dependencies]
+lxml = ">=4.7.0"
+mkdocs = ">=1.1.0,<2"
 
 [[package]]
 name = "packaging"
@@ -284,7 +310,7 @@ watchmedo = ["PyYAML (>=3.10)"]
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.10"
-content-hash = "bba4710f8dd74d6044c05c14fc340dac6a843aa3e05adc4506f73e92012a9ce9"
+content-hash = "858ecf7a2f9904a0e894b04bdd367485ddba1d611cd6638bcca7460c9880c5ca"
 
 [metadata.files]
 certifi = []
@@ -294,6 +320,7 @@ colorama = []
 ghp-import = []
 idna = []
 jinja2 = []
+lxml = []
 markdown = []
 markupsafe = []
 mergedeep = []
@@ -301,6 +328,7 @@ mkdocs = []
 mkdocs-material = []
 mkdocs-material-extensions = []
 mkdocs-roamlinks-plugin = []
+mkdocs-video = []
 packaging = []
 pygments = []
 pymdown-extensions = []

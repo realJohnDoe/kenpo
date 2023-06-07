@@ -16,9 +16,3 @@ Defense against right roundhouse punch
 6.  - Pivot back into [[right-neutral-bow]]
     - Inward downward overhead [[right-handsword]]
 7.  - [[cover-right-before-left]] facing 1030
-
-## Backlinks
-
-> - [Orange Belt 🟠](..\belts\orange.md)
-
-_Backlinks last generated 2023-06-04 13:15:16_

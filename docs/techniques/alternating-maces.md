@@ -6,14 +6,8 @@ Defense against Two Hand Push
 
 1.  - [[right-neutral-bow]]
     - [[right-inward-block]]
-2.  - Right Forward Bow
+2.  - [[right-forward-bow]]
     - Left Vertical Punch
 3.  - [[right-neutral-bow]]
     - Outward [[right-back-knuckle]]
 4.  - [[cover-right-before-left]]
-
-## Backlinks
-
-> - [Yellow Belt 🟡](..\belts\yellow.md)
-
-_Backlinks last generated 2023-06-04 13:15:16_

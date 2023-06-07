@@ -14,9 +14,3 @@ Defense against left push
    - Right inward horizontal elbow strike
    - Left inward horizontal heel palm strike
 5. - [[cover-right-before-left]] toward 730 🕢
-
-## Backlinks
-
-> - [Purple Belt 🟣](..\belts\purple.md)
-
-_Backlinks last generated 2023-06-04 13:15:16_

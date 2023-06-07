@@ -12,9 +12,3 @@ Defense against Right straight punch
 4. - Right inward horizontal elbow strike
    - Left inward hooking heel palm strike
 5. - [[cover-right-before-left]]
-
-## Backlinks
-
-> - [Purple Belt 🟣](..\belts\purple.md)
-
-_Backlinks last generated 2023-06-04 13:15:16_

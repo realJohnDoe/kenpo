@@ -15,9 +15,3 @@ Defense against attempted full nelson
    - Step to 1100 with the right foot
 7. - [[left-neutral-bow]] facing 600
 8. - Cover left before right facing 600
-
-## Backlinks
-
-> - [Orange Belt 🟠](..\belts\orange.md)
-
-_Backlinks last generated 2023-06-04 13:15:16_

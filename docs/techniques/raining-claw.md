@@ -12,9 +12,3 @@
 3. - Shuffle forward
    - Vertical [[right-back-knuckle]]
 4. [[cover-right-before-left]] towards 130
-
-## Backlinks
-
-> - [Orange Belt 🟠](..\belts\orange.md)
-
-_Backlinks last generated 2023-06-04 13:15:16_

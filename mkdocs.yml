@@ -7,4 +7,5 @@ theme:
 plugins: 
   - search
   - roamlinks
+  - mkdocs-video
 

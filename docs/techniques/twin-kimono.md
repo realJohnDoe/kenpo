@@ -11,9 +11,3 @@ Defense against double lapel grab
 3. - [[right-inward-diagonal-forearm-strike]]
 4. - Snapping outward [[right-handsword]]
 5. - [[cover-right-before-left]] toward 1030
-
-## Backlinks
-
-> - [Purple Belt 🟣](..\belts\purple.md)
-
-_Backlinks last generated 2023-06-04 13:15:16_
