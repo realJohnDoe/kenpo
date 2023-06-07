@@ -7,8 +7,8 @@ Defense against [[right-straight-punch]]
 ## Steps
 
 1.  - Step back into [[left-neutral-bow]] facing 1200 🕛
-    - Left Inward Block
-2.  - Left Forward Stance
+    - [[left-inward-block]]
+2.  - [[left-forward-bow]]
     - [[right-straight-punch]]
 3.  - Grab right arm
     - [[right-front-kick]]

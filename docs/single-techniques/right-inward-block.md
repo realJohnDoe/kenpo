@@ -1,4 +1,4 @@
-# Right Inward Block ✊⬅️
+# Right Inward Block ➡️✊⬅️
 
 ## Backlinks
 

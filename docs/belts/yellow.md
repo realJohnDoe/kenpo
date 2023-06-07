@@ -4,6 +4,11 @@
 2. [[alternating-maces]]
 3. [[sword-of-destruction]]
 4. [[deflecting-hammer]]
+5. -
+6. -
+7. -
+8. -
+9. [[attacking-mace]]
 
 ## Backlinks
 
