@@ -16,3 +16,7 @@ Defense against right roundhouse punch
 6.  - Pivot back into [[right-neutral-bow]]
     - Inward downward overhead [[right-handsword]]
 7.  - [[cover-right-before-left]] facing 1030
+
+## Video
+
+![type:video](https://www.youtube.com/embed/IXZ6kr4VHQw?start=288&end=305)

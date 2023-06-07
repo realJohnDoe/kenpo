@@ -11,8 +11,6 @@ Defense against Right Hand to Left Shoulder Grab
     - Outward [[right-handsword]]
 5.  - [[cover-right-before-left]]
 
-## Backlinks
+## Video
 
-> - [Yellow Belt 🟡](..\belts\yellow.md)
-
-_Backlinks last generated 2023-06-04 13:15:16_
+![type:video](https://www.youtube.com/embed/IXZ6kr4VHQw?start=46&end=62)

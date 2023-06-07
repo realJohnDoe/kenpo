@@ -5,13 +5,8 @@
 3. [[sword-of-destruction]]
 4. [[deflecting-hammer]]
 5. -
-6. -
+6. [[grasp-of-death]]
 7. -
-8. -
+8. [[mace-of-aggression]]
 9. [[attacking-mace]]
-
-## Backlinks
-
-> - [Overview](..\index.md)
-
-_Backlinks last generated 2023-06-04 13:15:16_
+10. [[sword-and-hammer]]

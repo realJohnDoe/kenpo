@@ -1,4 +1,4 @@
-# Attacking Mace
+# Attacking Mace 💥👊
 
 Defense against [[right-straight-punch]]
 
@@ -13,5 +13,9 @@ Defense against [[right-straight-punch]]
 3.  - Grab right arm
     - [[right-front-kick]]
 4.  - Put foot down in [[right-neutral-bow]]
-    - Left hook
+    - Left uppercut punch
 5.  - [[cover-right-before-left]]
+
+## Video
+
+![type:video](https://www.youtube.com/embed/IXZ6kr4VHQw?start=104&end=123)

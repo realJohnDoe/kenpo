@@ -12,3 +12,7 @@ Defense against Right straight punch
 4. - Right inward horizontal elbow strike
    - Left inward hooking heel palm strike
 5. - [[cover-right-before-left]]
+
+## Video
+
+![type:video](https://www.youtube.com/embed/IXZ6kr4VHQw?start=385&end=224)

@@ -1,4 +1,4 @@
-# Raining Claw
+# Raining Claw 🐯
 
 - Defense against [[right-uppercut-punch]]
 
@@ -12,3 +12,7 @@
 3. - Shuffle forward
    - Vertical [[right-back-knuckle]]
 4. [[cover-right-before-left]] towards 130
+
+## Video
+
+![type:video](https://www.youtube.com/embed/IXZ6kr4VHQw?start=355&end=368)

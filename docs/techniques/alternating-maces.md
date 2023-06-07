@@ -11,3 +11,7 @@ Defense against Two Hand Push
 3.  - [[right-neutral-bow]]
     - Outward [[right-back-knuckle]]
 4.  - [[cover-right-before-left]]
+
+## Video
+
+![type:video](https://www.youtube.com/embed/IXZ6kr4VHQw?start=140&end=157)

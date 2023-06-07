@@ -14,3 +14,7 @@ Defense against left push
    - Right inward horizontal elbow strike
    - Left inward horizontal heel palm strike
 5. - [[cover-right-before-left]] toward 730 🕢
+
+## Video
+
+![type:video](https://www.youtube.com/embed/IXZ6kr4VHQw?start=368&end=385)

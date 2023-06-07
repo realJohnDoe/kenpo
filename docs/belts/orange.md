@@ -1,15 +1,15 @@
 # Orange Belt 🟠
 
 1. -
-2. -
+2. [[triggered-salute]]
 3. -
-4. -
-5. -
+4. [[thrusting-salute]]
+5. [[gift-of-destruction]]
 6. -
 7. [[lone-kimono]]
-8. -
+8. [[glancing-salute]]
 9. [[five-swords]]
-10. -
+10. [[buckling-branch]]
 11. [[scraping-hoof]]
 12. -
 13. -
@@ -17,15 +17,9 @@
 15. [[shielding-hammer]]
 16. -
 17. -
-18. -
+18. [[obscure-wing]]
 19. [[reversing-mace]]
-20. -
-21. -
+20. [[thrusting-prongs]]
+21. [[twisted-twig]]
 22. -
 23. [[raining-claw]]
-
-## Backlinks
-
-> - [Overview](..\index.md)
-
-_Backlinks last generated 2023-06-04 13:15:16_

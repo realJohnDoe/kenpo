@@ -11,8 +11,8 @@ Defense against left hand step through push
 2. - Outward [[right-back-knuckle]] to
      left rib cage
 3. - Right inward diagonal roundhouse kick to left knee
-4. - [[cover-right-before-left]] facing 1030
+4. - [[cover-right-before-left]] facing 1030 🕥
 
 ## Video
 
-![type:video](https://www.youtube.com/embed/94JtYU_TCiw)
+![type:video](https://www.youtube.com/embed/IXZ6kr4VHQw?start=322&end=338)

@@ -11,8 +11,6 @@ Defense against Left Roundhouse Punch
 3.  - Inward [[right-handsword]]
 4.  - [[cover-right-before-left]]
 
-## Backlinks
+## Video
 
-> - [Yellow Belt 🟡](..\belts\yellow.md)
-
-_Backlinks last generated 2023-06-04 13:15:16_
+![type:video](https://www.youtube.com/embed/IXZ6kr4VHQw?start=29&end=46)
