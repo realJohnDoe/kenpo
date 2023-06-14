@@ -3,9 +3,9 @@
 ## [[grasp-of-death]]
 
 - Lever the arm
-- [[Yellow Belt]]
+- [[yellow]]
 
 ## [[grip-of-death]]
 
 - Double hammerfist
-- [[Orange Belt]]
+- [[orange]]
