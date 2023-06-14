@@ -1,6 +1,6 @@
 # Overview
 
-Those are my kenpo notes, written in markdown and rendered to this web page
+These are my kenpo notes, written in markdown and rendered to this web page
 using [MkDocs].
 If you like them, drop me a star on [GitHub] or even better, contribute some
 improvements.
