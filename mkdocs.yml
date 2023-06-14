@@ -9,3 +9,8 @@ plugins:
   - roamlinks
   - mkdocs-video
 
+# nav:
+#   - index.md
+#   - Belts:
+#     - belts/yellow.md
+#     - belts/orange.md
