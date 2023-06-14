@@ -1,8 +1,10 @@
 # Attacking Mace 💥👊
 
-Defense against [[right-straight-punch]]
+## Video
 
-[[punches]]
+![type:video](https://www.youtube.com/embed/IXZ6kr4VHQw?start=104&end=123)
+
+Defense against [[right-straight-punch]] ⇒ [[3-punches]]
 
 ## Steps
 
@@ -15,7 +17,3 @@ Defense against [[right-straight-punch]]
 4.  - Put foot down in [[right-neutral-bow]]
     - Left uppercut punch
 5.  - [[cover-right-before-left]]
-
-## Video
-
-![type:video](https://www.youtube.com/embed/IXZ6kr4VHQw?start=104&end=123)

@@ -2,7 +2,7 @@
 
 Defense against [[left-straight-punch]]
 
-[[punches]]
+[[3-punches]]
 
 ## Steps
 

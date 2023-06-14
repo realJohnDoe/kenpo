@@ -2,7 +2,7 @@
 
 Defense against [[left-straight-punch]]
 
-[[punches]]
+[[3-punches]]
 
 1. - [[right-neutral-bow]] facing 1030 🕥
    - Right inwward parry to left elbow

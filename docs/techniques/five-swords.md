@@ -1,7 +1,7 @@
 # Five Swords 5️⃣⚔️
 
 Defense against right roundhouse punch
-[[punches]]
+[[3-punches]]
 
 1.  - Step forward into [[right-neutral-bow]] toward 1200
     - [[right-inward-block]]

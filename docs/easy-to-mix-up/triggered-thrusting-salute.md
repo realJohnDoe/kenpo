@@ -1,10 +1,10 @@
-# Triggered vs. Thrusting vs. Glancing Salute 🎰🗡️👀🫡
+# Triggered vs. Thrusting vs. Glancing Salute 🔫🗡️👀🫡
 
-The salutes all involve a heel palm strike
+The salutes all involve a right heel palm strike
 
 ## Mnemonic
 
-A slot machine is getting triggered and it is played with hands, not with feet.
+A water gun is getting triggered and it is played with hands, not with feet.
 
 ## [[triggered-salute]]
 
@@ -14,7 +14,7 @@ A slot machine is getting triggered and it is played with hands, not with feet.
 ## [[thrusting-salute]]
 
 - Against [[right-front-kick]]
-- Involves a kick after a left downward block
+- Involves a kick after a left downward block with the heel palm at the end
 
 ## [[glancing-salute]]
 

@@ -1,4 +1,4 @@
-# Triggered Salute :slot_machine:🫡
+# Triggered Salute 🔫🫡
 
 ## Video
 

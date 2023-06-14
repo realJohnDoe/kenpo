@@ -1,7 +1,7 @@
 # Leaping Crane ↖️🐦
 
 Defense against Right straight punch
-[[punches]]
+[[3-punches]]
 
 1. - Leap to the left 900-1000 forming a left one-leg stance
    - Left inward parry

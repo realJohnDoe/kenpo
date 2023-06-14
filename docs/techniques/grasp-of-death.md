@@ -1,4 +1,4 @@
-# Grasp of Death 🗜️💀
+# Grasp of Death 🔒💀
 
 ## Video
 

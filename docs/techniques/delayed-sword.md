@@ -1,7 +1,7 @@
 # Delayed Sword ⏰⚔️
 
 Defense against Right Hand to Left Shoulder Grab
-[[grabs-and-tackles]]
+[[1-grabs-and-tackles]]
 
 1.  - [[right-neutral-bow]]
     - [[right-inward-block]]

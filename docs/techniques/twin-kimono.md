@@ -1,7 +1,7 @@
 # Twin Kimono 2️⃣👘
 
 Defense against double lapel grab
-[[grabs-and-tackles]]
+[[1-grabs-and-tackles]]
 
 1. - Pin opponents arm
    - Left foot back into [[right-neutral-bow]] facing 1200

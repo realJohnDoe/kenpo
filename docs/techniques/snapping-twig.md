@@ -1,7 +1,7 @@
 # Snapping Twig 🔄🌳
 
 Defense against left push
-[[pushes]]
+[[2-pushes]]
 
 1. - [[right-neutral-bow]] facing 1200 🕛
    - Pin left hand to chest

@@ -1,5 +1,11 @@
 # Short Form 1
 
+## Video
+
+![type:video](https://www.youtube.com/embed/Fz4jGkCKkxk)
+
+## Steps
+
 Always moving backward
 
 To 1200:
@@ -33,7 +39,3 @@ To 600:
 To 1200:
 
 9.  - Horse
-
-## Video
-
-![type:video](https://www.youtube.com/embed/Fz4jGkCKkxk)

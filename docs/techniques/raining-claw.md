@@ -2,7 +2,7 @@
 
 - Defense against [[right-uppercut-punch]]
 
-- [[punches]]
+- [[3-punches]]
 
 ## Steps
 

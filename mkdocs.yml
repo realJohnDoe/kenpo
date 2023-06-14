@@ -8,9 +8,13 @@ plugins:
   - search
   - roamlinks
   - mkdocs-video
+  - include_dir_to_nav
 
-# nav:
-#   - index.md
-#   - Belts:
-#     - belts/yellow.md
-#     - belts/orange.md
+nav:
+  - index.md
+  - Techniques: techniques
+  - Easy to Mix Up: easy-to-mix-up
+  - Forms: forms
+  - Belts: belts
+  - Web of Knowledge 🕸💡: web-of-knowledge
+  - Single Techniques: single-techniques

@@ -1,7 +1,7 @@
 # Sword of Destruction ⚔️💥
 
 Defense against Left Roundhouse Punch
-[[punches]]
+[[3-punches]]
 
 ## Steps
 

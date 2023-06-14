@@ -1,13 +1,13 @@
-# Grpsp of Death 🗜️⚒️💀
+# Grpsp of Death 🔒⚒️💀
 
 ## Mnemonic
 
-When performing the lever in [[grasp-of-death]], our body looks a bit like an
+When performing the lock in [[grasp-of-death]], our body looks a bit like an
 'A'.
 
 ## [[grasp-of-death]]
 
-- Lever the arm
+- Lock the arm
 - [[1-yellow]]
 
 ## [[grip-of-death]]

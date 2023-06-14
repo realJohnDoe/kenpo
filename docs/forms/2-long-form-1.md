@@ -1,6 +1,12 @@
 # Long Form 1
 
-1. Blocks and Punches
+## Video
+
+![type:video](https://www.youtube.com/embed/ZtmvWpdK84E)
+
+## Steps
+
+1. Blocks and 3-
    1. Facing 1200, inward blocks
       1. - Horse
       2. - Left foot back into [[right-neutral-bow]]
@@ -50,13 +56,9 @@
    1. Inward Downward Thumb Side Blocks, starting left
    2. Inward Downward Pinky Side blocks, starting right
    3. Push Down Blocks, starting left
-4. Double Punches
-   1. Straight punches, starting right
-   2. Diagonal punches, starting right
-   3. Roundhouse punches, starting right
-   4. Uppercut punches, starting right
+4. Double 3-
+   1. Straight 3-, starting right
+   2. Diagonal 3-, starting right
+   3. Roundhouse 3-, starting right
+   4. Uppercut 3-, starting right
    5. Horse & Greeting
-
-# Video
-
-![type:video](https://www.youtube.com/embed/ZtmvWpdK84E)

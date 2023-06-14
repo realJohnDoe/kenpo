@@ -1,7 +1,7 @@
 # Repeating Mace ↔️👊
 
 Defense against left hand step through push
-[[pushes]]
+[[2-pushes]]
 
 ## Steps
 

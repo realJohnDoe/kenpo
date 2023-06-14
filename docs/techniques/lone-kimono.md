@@ -2,7 +2,7 @@
 
 Defense against left hand grab
 
-[[grabs-and-tackles]]
+[[1-grabs-and-tackles]]
 
 ## Steps
 

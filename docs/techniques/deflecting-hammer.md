@@ -1,7 +1,7 @@
 # Deflecting Hammer 💥🔨
 
 Defense against [[right-front-kick]]
-[[kicks]]
+[[4-kicks]]
 
 1.  - [[right-neutral-bow]]
     - [[right-outward-downward-block]]
