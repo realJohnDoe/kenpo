@@ -1,4 +1,4 @@
-# Sword and Hammer
+# Sword and Hammer ⚔️🔨
 
 ## Video
 
