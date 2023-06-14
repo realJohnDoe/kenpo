@@ -1,4 +1,4 @@
-# Grpsp of Death 💀
+# Grpsp of Death 🗜️⚒️💀
 
 ## [[grasp-of-death]]
 
