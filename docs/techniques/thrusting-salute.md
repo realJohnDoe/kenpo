@@ -1,4 +1,4 @@
-# Thrusting Salute
+# Thrusting Salute 🗡️🫡
 
 ## Video
 
